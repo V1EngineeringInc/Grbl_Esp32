@@ -1,3 +1,5 @@
+## Tested Firmware pre-configured for the ZenXY V2 and Bart Dring's "TMC2209 Pen/laser controller"
+
 
 
 # Grbl (CNC Controller) For ESP32
